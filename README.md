@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ilyas!
 👩🏻‍💻 As a web and mobile developer, I delve into the intricate world of coding, crafting digital solutions one line at a time.<br/>
-👩🏻‍🎓 My journey began with studying Computer Science at the [OFPPT](https://ofppt.ma), Morocco.<br/>
+👩🏻‍🎓 My journey began with studying Computer Science at the [OFPPT](https://www.ofppt.ma), Morocco.<br/>
 🎨 When I'm not immersed in code, I indulge my creative side by weaving stories through video editing. <br/>
 💭 Currently learning about !<br/>
 🎤 As a public speaker, I relish the opportunity to share my experiences, insights, and learnings with people. <br/>
